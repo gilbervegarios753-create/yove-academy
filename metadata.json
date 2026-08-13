@@ -1,0 +1,6 @@
+{
+  "name": "Yove Academy",
+  "description": "Academia de educación online especializada en mecatrónica automotriz",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
