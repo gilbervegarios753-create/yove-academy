@@ -1,0 +1,7 @@
+# SEO Robots file for YOVE Academy 3.0
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+Sitemap: https://yoveacademy.com/sitemap.xml

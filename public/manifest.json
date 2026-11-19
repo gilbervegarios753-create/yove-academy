@@ -1,0 +1,47 @@
+{
+  "name": "YOVE Academy 3.0",
+  "short_name": "YOVE Academy",
+  "description": "Plataforma de Educación y Diagnóstico Mecatrónico Automotriz",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0e27",
+  "theme_color": "#0a0e27",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/pwa-192x192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa-512x512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "automotive", "productivity"],
+  "shortcuts": [
+    {
+      "name": "Garage Diagnóstico",
+      "short_name": "Garage",
+      "url": "/?view=garage",
+      "description": "Abrir Garage de Vehículos"
+    },
+    {
+      "name": "YOVE AI Asistente",
+      "short_name": "AI",
+      "url": "/?view=ai",
+      "description": "Consultar Asistente de IA Automotriz"
+    },
+    {
+      "name": "Laboratorio Virtual",
+      "short_name": "Lab",
+      "url": "/?view=lab",
+      "description": "Osciloscopio y Simuladores"
+    }
+  ]
+}
